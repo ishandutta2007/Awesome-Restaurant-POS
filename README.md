@@ -1,91 +1,114 @@
-# Awesome-Restaurant-POS
+# Awesome-Restaurant-POS 🍽️⚡💳
 
-## 🍽️ Top Restaurant POS Ecosystem
+<div align="center">
 
-**Curated List of SaaS/Hosted Products & Open-Source GitHub Projects**
-*Focused on Restaurant Point-of-Sale, Table Management, Kitchen Operations, Payments, Inventory & Hospitality Technology*
-**Last updated: September 2026**
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintained" />
+<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" />
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-This repository tracks notable **SaaS/Hosted restaurant POS platforms** and **open-source POS projects** for restaurants, cafés, bars, QSRs, food trucks, bakeries, hospitality groups, and multi-location food businesses.
+<br/><br/>
 
-**Examples** include Toast, Square for Restaurants, TouchBistro, Lightspeed Restaurant, Clover, Oracle MICROS, Revel Systems, SpotOn Restaurant, CAKE POS, and Epos Now.
+<a href="https://github.com/ishandutta2007/Awesome-Restaurant-POS">
+  <img src="./assets/banner.svg" alt="Awesome Restaurant POS Banner" width="100%" />
+</a>
 
-A modern restaurant POS is much more than a cash register. It can combine:
+<br/>
 
-* 🍽️ Order taking
-* 🪑 Table & floor management
-* 💳 Payments
-* 👨‍🍳 Kitchen Display Systems (KDS)
-* 📦 Inventory
-* 🧾 Receipts & taxes
-* 👥 Employee management
-* 💰 Tips & cash management
-* 📱 Online ordering
-* 🚚 Delivery
-* 🎁 Loyalty
-* 📊 Restaurant analytics
-* 🧮 Accounting
-* 🏪 Multi-location management
+### 🍕 Curated Point-of-Sale (POS) Systems, Kitchen Display Systems (KDS), Hospitality ERP & Restaurant Tech 🚀
+*A comprehensive, developer-first guide to commercial SaaS platforms and open-source self-hostable restaurant management solutions.*
 
-**Open-source emphasis:** This repository heavily emphasizes **self-hostable restaurant POS software and reusable open-source building blocks**, including Floreant POS, Chromis POS, uniCenta oPOS, WallacePOS, POSNext, ERPNext, Odoo Community, Open Source Point of Sale, and related hospitality/ERP infrastructure.
+**Last updated: September 2026** 🗓️
 
-> **Important:** An open-source POS can reproduce much of the software functionality of a commercial restaurant POS, but payment processing, PCI compliance, card-network connectivity, fiscalization, hardware certification, and acquiring relationships may still require external services.
+</div>
 
 ---
 
-## Table of Contents
+## 🌟 Overview & Industry Ecosystem
 
-* [SaaS/Hosted Platforms](#saashosted-platforms)
-* [Open-Source](#open-source)
-* [Open-Source Restaurant POS](#open-source-restaurant-pos)
-* [Open-Source General POS](#open-source-general-pos)
-* [Open-Source ERP + POS](#open-source-erp--pos)
-* [Open-Source Kitchen Display Systems](#open-source-kitchen-display-systems)
-* [Open-Source Restaurant Management](#open-source-restaurant-management)
-* [Open-Source Inventory & Recipe Management](#open-source-inventory--recipe-management)
-* [Open-Source Payments](#open-source-payments)
-* [Open-Source Restaurant Analytics](#open-source-restaurant-analytics)
-* [Open-Source Building Blocks](#open-source-building-blocks)
-* [Commercial Platform → Open-Source Equivalent](#commercial-platform--open-source-equivalent)
-* [Restaurant POS Architecture](#restaurant-pos-architecture)
-* [Open-Source Restaurant POS Architecture](#open-source-restaurant-pos-architecture)
-* [Restaurant Order → Kitchen → Payment Flow](#restaurant-order--kitchen--payment-flow)
-* [Commercial vs Open-Source](#commercial-vs-open-source)
-* [Recommended Open-Source Stacks](#recommended-open-source-stacks)
-* [Restaurant POS Technology Comparison](#restaurant-pos-technology-comparison)
-* [Recommended Projects by Use Case](#recommended-projects-by-use-case)
-* [Building a Toast Alternative](#building-a-toast-alternative)
-* [Building an Open-Source Restaurant POS](#building-an-open-source-restaurant-pos)
-* [Open-Source Restaurant POS Landscape](#open-source-restaurant-pos-landscape)
-* [Why Open-Source Restaurant POS Matters](#why-open-source-restaurant-pos-matters)
-* [How to Contribute](#how-to-contribute)
-* [Disclaimer](#disclaimer)
+This curated awesome repository tracks modern **Cloud SaaS & Hosted restaurant POS platforms** alongside battle-tested **Open-Source POS projects, Kitchen Display Systems (KDS), tableside ordering apps, payment orchestration gateways, and restaurant inventory ERPs**. Whether you run fine dining restaurants, quick-service food chains (QSRs), cafés, craft breweries, food trucks, cloud dark kitchens, or multi-location franchise hospitality groups, this directory catalogs the premier software architectures and technology building blocks available today.
+
+**Notable commercial platforms** include Toast, Square for Restaurants, TouchBistro, Lightspeed Restaurant, Clover, Oracle MICROS, Revel Systems, SpotOn Restaurant, CAKE POS, and Epos Now.
+
+Modern restaurant technology unites a comprehensive software and hardware ecosystem:
+
+* 🍽️ **Point-of-Sale (POS) & Order Taking:** Handheld terminals, QR code self-ordering, kiosk interfaces, and multi-station registers.
+* 🪑 **Table & Floor Management:** Real-time floor plans, seat-level assignment, course management, and guest reservations.
+* 💳 **Payment Processing & Terminals:** EMV chip, contactless NFC, tap-to-pay, split bills, and tip distribution.
+* 👨‍🍳 **Kitchen Display Systems (KDS):** Digital line cook displays, expo routing screens, and ticket preparation routing.
+* 📦 **Recipe & Inventory Management:** Food-cost forecasting, automated ingredient depletion, supplier purchase orders, and stock alerts.
+* 🧾 **Fiscalization & Compliance:** Automated local sales taxes, digital receipts, fiscal cash registers, and PCI DSS standards.
+* 👥 **Staff & Labor Scheduling:** Time clocks, employee tip pools, shift tracking, role permissions, and payroll workflows.
+* 📱 **Online Ordering & Omnichannel Delivery:** First-party digital storefronts and aggregator integrations (DoorDash, Uber Eats, Deliveroo).
+* 🎁 **Customer Loyalty & CRM:** Automated diner rewards, gift card programs, and marketing automation.
+* 📊 **Restaurant Business Analytics:** Real-time revenue dashboards, labor percentage benchmarks, food waste reporting, and BI pipelines.
+* 🧮 **Hospitality Accounting & ERP:** Daily reconciliation, ledger entries, purchasing, and franchise accounts.
+* 🏪 **Multi-Location & Franchise Management:** Centralized menu distribution, multi-unit governance, and consolidated reporting.
+
+> 💡 **Open-Source Focus:** This repository places a high emphasis on **self-hostable restaurant POS software, modular components, and reusable open-source foundations**, including Floreant POS, Chromis POS, uniCenta oPOS, WallacePOS, POSNext, ERPNext, Odoo Community, Open Source Point of Sale, and related hospitality software stacks.
+
+> ⚠️ **Compliance Note:** An open-source POS can power order taking, table arrangements, inventory, and kitchen dispatch; however, real-world card processing, certified payment terminals, PCI DSS conformance, fiscal memory modules, and merchant acquiring relationships require external services and verified hardware.
 
 ---
 
-# SaaS/Hosted Platforms
+## 📑 Table of Contents
 
-| Platform                                                                  | Company         | Primary Focus                    | Key Capabilities                                                 |
-| ------------------------------------------------------------------------- | --------------- | -------------------------------- | ---------------------------------------------------------------- |
-| **[Toast](https://pos.toasttab.com/)**                                    | Toast           | Restaurant POS ecosystem         | POS, payments, KDS, online ordering, payroll, loyalty, inventory |
-| **[Square for Restaurants](https://squareup.com/us/en/restaurants)**      | Block / Square  | SMB restaurant POS               | POS, payments, online ordering, KDS, loyalty, inventory          |
-| **[TouchBistro](https://www.touchbistro.com/)**                           | TouchBistro     | Restaurant POS                   | iPad POS, tables, reservations, payments, reporting              |
-| **[Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant/)** | Lightspeed      | Restaurant & hospitality POS     | POS, inventory, tables, payments, analytics, multi-location      |
-| **[Clover](https://www.clover.com/)**                                     | Fiserv          | POS + payments                   | Restaurant POS, payments, apps, employee management              |
-| **[Oracle MICROS](https://www.oracle.com/food-beverage/restaurant-pos/)** | Oracle          | Enterprise hospitality POS       | Enterprise POS, tables, kitchen, payments, inventory, analytics  |
-| **[Revel Systems](https://revelsystems.com/)**                            | Revel           | iPad restaurant POS              | POS, inventory, employee management, analytics, multi-location   |
-| **[SpotOn Restaurant](https://www.spoton.com/restaurants/)**              | SpotOn          | Restaurant technology            | POS, payments, online ordering, reservations, marketing          |
-| **[CAKE POS](https://www.trycake.com/)**                                  | PAR Technology  | Restaurant POS                   | POS, payments, KDS, online ordering, loyalty                     |
-| **[Epos Now](https://www.eposnow.com/)**                                  | Epos Now        | Hospitality POS                  | POS, payments, inventory, reporting, integrations                |
-| **[NCR Voyix Aloha](https://www.ncrvoyix.com/restaurant/aloha)**          | NCR Voyix       | Enterprise restaurant POS        | POS, payments, KDS, labor, enterprise restaurant management      |
-| **[PAR Brink POS](https://partech.com/restaurant/)**                      | PAR Technology  | Enterprise restaurant POS        | QSR POS, drive-thru, payments, digital ordering                  |
-| **[GoTab](https://gotab.io/)**                                            | GoTab           | Restaurant commerce              | POS, QR ordering, payments, tableside ordering                   |
-| **[Heartland Restaurant](https://www.heartland.us/restaurant)**           | Global Payments | Restaurant POS                   | POS, payments, employee management, reporting                    |
-| **[Lavu](https://lavu.com/)**                                             | Lavu            | iPad restaurant POS              | POS, payments, inventory, loyalty, online ordering               |
-| **[Rezku](https://rezku.com/)**                                           | Rezku           | Restaurant POS                   | POS, KDS, online ordering, loyalty, reporting                    |
-| **[HungerRush](https://www.hungerrush.com/)**                             | HungerRush      | Restaurant technology            | POS, online ordering, delivery, marketing                        |
-| **[Restaurant365 POS](https://www.restaurant365.com/)**                   | Restaurant365   | Restaurant operations            | POS, accounting, inventory, labor, analytics                     |
-| **[Crunchtime](https://www.crunchtime.com/)**                             | Crunchtime      | Enterprise restaurant operations | Operations, inventory, labor, food safety, analytics             |
+* [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+* [💻 Open-Source](#open-source)
+* [🍽️ Open-Source Restaurant POS](#️-open-source-restaurant-pos)
+* [🛒 Open-Source General POS](#-open-source-general-pos)
+* [🏢 Open-Source ERP + POS](#-open-source-erp--pos)
+* [👨‍🍳 Open-Source Kitchen Display Systems](#open-source-kitchen-display-systems)
+* [📋 Open-Source Restaurant Management](#open-source-restaurant-management)
+* [📦 Open-Source Inventory & Recipe Management](#open-source-inventory--recipe-management)
+* [💳 Open-Source Payments](#-open-source-payments)
+* [📊 Open-Source Restaurant Analytics](#-open-source-restaurant-analytics)
+* [🧱 Open-Source Building Blocks](#open-source-building-blocks)
+* [🔄 Commercial Platform → Open-Source Equivalent](#commercial-platform--open-source-equivalent)
+* [🏗️ Restaurant POS Architecture](#restaurant-pos-architecture)
+* [📐 Open-Source Restaurant POS Architecture](#open-source-restaurant-pos-architecture)
+* [🔄 Restaurant Order → Kitchen → Payment Flow](#restaurant-order--kitchen--payment-flow)
+* [⚖️ Commercial vs Open-Source](#commercial-vs-open-source)
+* [🚀 Recommended Open-Source Stacks](#recommended-open-source-stacks)
+* [📊 Restaurant POS Technology Comparison](#restaurant-pos-technology-comparison)
+* [🎯 Recommended Projects by Use Case](#recommended-projects-by-use-case)
+* [🛠️ Building a Toast Alternative](#building-a-toast-alternative)
+* [🛠️ Building an Open-Source Restaurant POS](#building-an-open-source-restaurant-pos)
+* [🗺️ Open-Source Restaurant POS Landscape](#open-source-restaurant-pos-landscape)
+* [💡 Why Open-Source Restaurant POS Matters](#why-open-source-restaurant-pos-matters)
+* [⭐ Top Open-Source Restaurant POS & Hospitality Projects](#-top-open-source-restaurant-pos--hospitality-projects)
+* [📈 Star History](#-star-history)
+* [🤝 How to Contribute](#how-to-contribute)
+* [📜 Disclaimer](#disclaimer)
+
+---
+
+# ☁️ SaaS/Hosted Platforms
+
+> 📊 **Market Size & Industry Dynamics:** The global restaurant POS software and terminal market is estimated at **~$26.5 Billion in 2026** (projected to reach over **$42 Billion by 2030** at an 8.5%–10.2% CAGR). The sector is **moderately to highly fragmented** across independent SMBs, regional food operations, and specialized niches (food trucks, coffee shops, fine dining, ghost kitchens), but displays strong **oligopolistic concentration at the high end** where leading enterprise giants and integrated fintech processors (such as Oracle MICROS, Block/Square, Toast, Fiserv/Clover, and NCR Voyix) capture the bulk of total processing volume and large chain accounts.
+
+| Platform | Company | Company Size (Valuation / Market Cap / Revenue) | Primary Focus | Key Capabilities | Pricing | Free Tier / Free Trial Limits |
+| --- | --- | --- | --- | --- | --- | --- |
+| **[Oracle MICROS](https://www.oracle.com/food-beverage/restaurant-pos/)** | Oracle (NYSE: ORCL) | ~$410 Billion Market Cap (~$53B Annual Revenue) | Enterprise hospitality POS | Enterprise POS, tables, kitchen, payments, inventory, analytics | Starts at $55/mo per workstation (Simphony Essentials) | No free tier or trial; sales demo and custom enterprise quotes only |
+| **[Clover](https://www.clover.com/)** | Fiserv (NYSE: FI) | ~$115 Billion Market Cap (~$19B Annual Revenue) | POS + payments | Restaurant POS, payments, apps, employee management | Starts at $14.95/mo (Starter software) or $130/mo (hardware bundle) | 90-day free software trial on select SaaS subscription plans (limited to 90 consecutive calendar days per tax ID); no permanent free tier |
+| **[Square for Restaurants](https://squareup.com/us/en/restaurants)** | Block, Inc. (NYSE: XYZ) | ~$48 Billion Market Cap (~$22B Annual Revenue) | SMB restaurant POS | POS, payments, online ordering, KDS, loyalty, inventory | Starts at $0/mo (Free plan) / $60/mo per location (Plus) | Free forever plan ($0/mo) with unlimited transactions and 1 terminal; excludes customized floor plans, advanced course management, and native KDS; 30-day free trial for Plus plan |
+| **[Heartland Restaurant](https://www.heartland.us/restaurant)** | Global Payments (NYSE: GPN) | ~$27 Billion Market Cap (~$10B Annual Revenue) | Restaurant POS | POS, payments, employee management, reporting | Starts at $89/mo for 1 station | No free POS software tier or trial; 60 to 90-day trial offered occasionally for specific add-ons only; demo available |
+| **[Toast](https://pos.toasttab.com/)** | Toast, Inc. (NYSE: TOST) | ~$18 Billion Market Cap (~$4.8B Annual Revenue) | Restaurant POS ecosystem | POS, payments, KDS, online ordering, payroll, loyalty, inventory | Starts at $0/mo (Starter Kit) / $69/mo (Standard POS) | Free forever Starter plan ($0/mo) for 1–2 terminals at a single location; standard payment processing fees apply; no general free trial |
+| **[NCR Voyix Aloha](https://www.ncrvoyix.com/restaurant/aloha)** | NCR Voyix (NYSE: VYX) | ~$2.1 Billion Market Cap (~$3.8B Annual Revenue) | Enterprise restaurant POS | POS, payments, KDS, labor, enterprise restaurant management | Starts at $175/mo per terminal (Aloha Essentials bundle) | No free tier or trial; sales consultation and live product demo only |
+| **[Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant/)** | Lightspeed Commerce (NYSE: LSPD) | ~$2.0 Billion Market Cap (~$910M Annual Revenue) | Restaurant & hospitality POS | POS, inventory, tables, payments, analytics, multi-location | Starts at $69/mo (Starter plan, billed annually) | No free tier or trial for restaurant POS; guided live product demo only |
+| **[SpotOn Restaurant](https://www.spoton.com/restaurants/)** | SpotOn Transact | ~$3.6 Billion Private Valuation (~$600M Annual Revenue) | Restaurant technology | POS, payments, online ordering, reservations, marketing | Starts at $0/mo (Quick Start / processing-bundled) or $55/mo per station (Essentials) | Free forever software on Quick Start plan ($0/mo) with SpotOn payment processing; no self-service free trial; live demo only |
+| **[CAKE POS](https://www.trycake.com/)** | PAR Technology (NYSE: PAR) | ~$1.9 Billion Market Cap (~$420M Annual Revenue) | Restaurant POS | POS, payments, KDS, online ordering, loyalty | Starts at $0/mo (bundled into processing) or $69/mo | No free tier or trial; live 1-on-1 advisor demo only |
+| **[PAR Brink POS](https://partech.com/restaurant/)** | PAR Technology (NYSE: PAR) | ~$1.9 Billion Market Cap (~$420M Annual Revenue) | Enterprise restaurant POS | QSR POS, drive-thru, payments, digital ordering | Starts at $90/mo per terminal | No free tier or trial; live product demo only |
+| **[TouchBistro](https://www.touchbistro.com/)** | TouchBistro (Francisco Partners) | ~$1.5 Billion Valuation (~$120M Annual Revenue) | Restaurant POS | iPad POS, tables, reservations, payments, reporting | Starts at $69/mo (Solo POS) | No free tier or trial; guided live product demo only |
+| **[Restaurant365 POS](https://www.restaurant365.com/)** | Restaurant365 (KKR / Bessemer) | ~$1.0 Billion Valuation (~$100M+ Annual ARR) | Restaurant operations | POS, accounting, inventory, labor, analytics | Starts at $499/mo per location (Essentials core tier) | No free tier or trial; personalized guided demo only |
+| **[Revel Systems](https://revelsystems.com/)** | Shift4 (Acquired for $250M) / Shift4 $7B Cap | ~$250 Million Acquisition Value (~$85M Annual Revenue) | iPad restaurant POS | POS, inventory, employee management, analytics, multi-location | Starts at $99/mo per terminal (annual contract) | No free POS software plan or trial; optional Revel+ support service includes a 60-day (2-month) trial |
+| **[Crunchtime](https://www.crunchtime.com/)** | Crunchtime (Battery Ventures) | ~$500 Million Valuation (~$80M Annual Revenue) | Enterprise restaurant operations | Operations, inventory, labor, food safety, analytics | Starts at $100/mo per location (module-dependent enterprise tier) | No free tier or trial; tailored enterprise demo only |
+| **[HungerRush](https://www.hungerrush.com/)** | HungerRush (The CapStreet Group) | ~$250 Million Valuation (~$60M Annual Revenue) | Restaurant technology | POS, online ordering, delivery, marketing | Starts at $199/mo | No free tier or trial; live guided demo only |
+| **[Epos Now](https://www.eposnow.com/)** | Epos Now | ~$400 Million Valuation (~$50M Annual Revenue) | Hospitality POS | POS, payments, inventory, reporting, integrations | Starts at $39/mo (standard software-only license) | 30-day free trial (full software access for up to 30 consecutive days); no permanent free plan |
+| **[GoTab](https://gotab.io/)** | GoTab | ~$100 Million Valuation (~$25M Annual Revenue) | Restaurant commerce | POS, QR ordering, payments, tableside ordering | Starts at $15/mo (entry tier) + transaction processing fees | No free tier or trial; guided live demo and proposal only |
+| **[Rezku](https://rezku.com/)** | Rezku / GuestPlus | ~$30 Million Valuation (~$10M Annual Revenue) | Restaurant POS | POS, KDS, online ordering, loyalty, reporting | Starts at $49/mo per terminal | 14-day free trial available upon request through demo/onboarding; no permanent free software tier |
+| **[Lavu](https://lavu.com/)** | Lavu | ~$50 Million Valuation (~$15M Annual Revenue) | iPad restaurant POS | POS, payments, inventory, loyalty, online ordering | Starts at $59/mo (Starter plan, 1 terminal) | No free tier or trial; live walkthrough demo only |
 
 Current restaurant-POS comparisons continue to place Toast, Square, Lightspeed, TouchBistro, Clover, SpotOn and enterprise platforms such as Oracle MICROS among the major restaurant POS systems.
 
@@ -116,126 +139,129 @@ The open-source restaurant POS ecosystem is smaller than the commercial ecosyste
 
 ---
 
-# Open-Source Restaurant POS
+# 🍽️ Open-Source Restaurant POS
 
-## ⭐ Floreant POS
-
-**[Floreant POS](https://github.com/floreantpos/floreantpos)** is one of the most directly relevant open-source alternatives to commercial restaurant POS systems.
-
-It is specifically designed for restaurants and supports features such as:
-
-* Dine-in
-* Table management
-* Guest/seat management
-* Split checks
-* Tips
-* Takeout
-* Delivery
-* Kitchen printing
-* Kitchen Display System
-* Modifiers
-* Discounts
-* Cash drawer
-* Touchscreen operation
-* Offline operation
-* Reporting
-* Multiple terminals
-
-The project describes itself as a free, open-source restaurant POS and supports Windows, macOS and Linux.
-
-Floreant POS is released under **MRPL 1.2**; verify the current license and redistribution requirements before deployment.
+*Curated standalone point-of-sale systems built specifically for restaurant, café, and hospitality workflows. Sorted by GitHub stars.*
 
 ---
 
-## ⭐ Chromis POS
+## 🌟 [TastyIgniter](https://github.com/TastyIgniter/TastyIgniter) [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers)
 
-**[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** is an open-source POS derived from the Openbravo POS lineage.
+**[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) is an extensible open-source restaurant management, online ordering, and tableside ordering platform.
 
-It provides:
+Key capabilities include:
 
-* Touch POS
-* Product management
-* Sales
-* Restaurant functionality
-* Table management
-* Kitchen tickets
-* Inventory
-* Customer management
-* Employee management
-* Reporting
-* Payment integrations
+* 📱 Online ordering & menu management
+* 🪑 Table reservations & floor seating
+* 💳 Multichannel payment gateways (Stripe, PayPal)
+* 👨‍🍳 Kitchen order routing & dispatching
+* 🛵 Delivery management & zones
+* 🔌 Rich plugin and extension architecture
+* 📱 Mobile-responsive staff and guest portals
 
-Chromis documents itself as free/open-source software under the GPL family of licenses.
+TastyIgniter is built on modern PHP/Laravel frameworks and released under the **MIT** license.
 
 ---
 
-## ⭐ uniCenta oPOS
+## 🌟 [WallacePOS](https://github.com/micwallace/wallacepos) [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers)
 
-**[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** is a long-running open-source POS platform with applicability to retail and hospitality.
+**[WallacePOS](https://github.com/micwallace/wallacepos)** [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) is a lightweight, responsive web-based open-source POS application designed with food-service ordering workflows.
 
-Useful capabilities include:
+Key features include:
 
-* Touchscreen POS
-* Product management
-* Inventory
-* Customers
-* Employees
-* Reporting
-* Restaurant tables
-* Kitchen tickets
-* Multiple payment methods
+* 🌐 Web-based POS terminal running on modern browsers
+* 🍔 Restaurant, café, and bar quick-order modes
+* 🧾 Kitchen and receipt thermal printing (ESC/POS)
+* 📦 Product modifiers and item variants
+* 👥 Multi-user cashier permissions
+* 📊 Sales summaries and shift closeout reports
 
-There are also active/community forks of the project.
+> ⚠️ The original repository is no longer actively maintained and serves as a clean reference codebase or starting point for modern custom web POS builds.
 
 ---
 
-## ⭐ WallacePOS
+## 🌟 [uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS) [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers)
 
-**[WallacePOS](https://github.com/micwallace/wallacepos)** is a web-based open-source POS system.
+**[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) is a premier cross-platform POS platform with deep restaurant, hospitality, and retail functionality.
 
-It includes:
+Capabilities include:
 
-* Web-based POS
-* Product management
-* Sales
-* Reporting
-* Hardware integration
-* Multi-terminal operation
-* Restaurant/café order workflows
+* 🪑 Visual floor plan & table layout designer
+* 👨‍🍳 Kitchen tickets & multiple printer routing
+* 💳 Cash drawers, barcode scanners, customer-facing displays
+* 📦 Inventory tracking and ingredient deductions
+* 👥 Employee time clock and role security
+* 📊 Comprehensive sales reporting and tax auditing
+* 🖥️ Multi-terminal networked database synchronization (MySQL / PostgreSQL)
 
-The original repository states that WallacePOS is **no longer actively maintained**, so it is better treated as a reference codebase or starting point rather than a first-choice production system.
-
-Its restaurant functionality includes a dedicated order workflow suitable for cafés and restaurants.
+Licensed under **GPL v3**.
 
 ---
 
-# Open-Source General POS
+## 🌟 [Floreant POS](https://github.com/floreantpos/floreantpos) [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers)
 
-These projects are not exclusively restaurant-focused, but can be adapted to restaurants.
+**[Floreant POS](https://github.com/floreantpos/floreantpos)** [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) is a legendary open-source restaurant POS deployed worldwide across thousands of dining venues.
 
-| Project                                                                                       | Description                     | Restaurant Suitability |
-| --------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------- |
-| **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)**               | Web-based inventory and POS     | ⭐⭐⭐                    |
-| **[Loyverse alternatives / community POS projects](https://github.com/topics/point-of-sale)** | Community POS implementations   | ⭐⭐                     |
-| **[POSNext](https://github.com/DeeloaSociety/posnext)**                                       | Modern POS built around ERPNext | ⭐⭐⭐⭐                   |
-| **[Lakasir](https://github.com/lakasir/lakasir)**                                             | Open-source POS                 | ⭐⭐⭐                    |
-| **[WallacePOS](https://github.com/micwallace/wallacepos)**                                    | Web POS                         | ⭐⭐⭐                    |
-| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)**                                  | Retail/hospitality POS          | ⭐⭐⭐⭐                   |
-| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)**                                   | Open-source POS                 | ⭐⭐⭐⭐                   |
+Specifically engineered for food and beverage operations:
+
+* 🍽️ Dine-in, takeout, delivery, and drive-thru modes
+* 🪑 Table management & seat-level order assignments
+* 🧾 Split checks (by seat, item, or equal split) and tip recording
+* 👨‍🍳 Kitchen Display System (KDS) & kitchen ticket printing
+* 🍔 Dynamic modifiers, cooking instructions, and combo menus
+* 💰 Cash drawer balance control & manager authorizations
+* 🔌 Offline-first local database operation (Derby / PostgreSQL)
+* 🖥️ Multi-terminal setup for counter and dining room servers
+
+Released under **MRPL 1.2** (commercial ORO POS version available separately).
 
 ---
 
-# Open-Source ERP + POS
+## 🌟 [Chromis POS](https://github.com/ChromisPos/ChromisPOS) [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers)
 
-ERP platforms can provide significantly more functionality around the POS itself.
+**[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) is a feature-packed open-source POS branched from the Openbravo lineage.
 
-| Project                                                       | POS | Inventory | Accounting | Restaurant | Open Source |
-| ------------------------------------------------------------- | :-: | :-------: | :--------: | :--------: | :---------: |
-| **[ERPNext](https://github.com/frappe/erpnext)**              |  ✅  |     ✅     |      ✅     |     ⚠️     |      ✅      |
-| **[Odoo Community](https://github.com/odoo/odoo)**            |  ✅  |     ✅     |      ✅     |     ⚠️     |      ✅      |
-| **[Dolibarr](https://github.com/Dolibarr/dolibarr)**          |  ✅  |     ✅     |      ✅     |     ⚠️     |      ✅      |
-| **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** |  ⚠️ |     ✅     |      ✅     |     ⚠️     |      ✅      |
-| **[Tryton](https://www.tryton.org/)**                         |  ⚠️ |     ✅     |      ✅     |     ⚠️     |      ✅      |
+Capabilities:
+
+* 🖥️ Touch-friendly POS interface designed for speed
+* 🪑 Restaurant table maps and open ticket management
+* 👨‍🍳 Integrated Kitchen Screen (KDS) module
+* 📦 Inventory management with barcode scanner integration
+* 👥 User roles, shift management, and cash reconciliation
+* 🧾 Custom receipts and fiscal reporting scripts
+
+Released as free open-source software under **GPL v3**.
+
+---
+
+# 🛒 Open-Source General POS
+
+*Versatile point-of-sale foundations that can be customized or configured for restaurants, retail counters, and food service. Sorted by GitHub stars.*
+
+| Project | Description | Stars | Restaurant Suitability |
+| --- | --- | :---: | :---: |
+| **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel commerce platform with extensive POS & restaurant ordering extensions | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | ⭐⭐⭐⭐ |
+| **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | Web-based inventory and modular point of sale system | [![GitHub stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) | ⭐⭐⭐ |
+| **[Lakasir](https://github.com/lakasir/lakasir)** | Open-source mobile & desktop cashier POS for small businesses | [![GitHub stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) | ⭐⭐⭐ |
+| **[WallacePOS](https://github.com/micwallace/wallacepos)** | Web POS with dedicated café and fast-food ordering workflow | [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) | ⭐⭐⭐ |
+| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Retail & hospitality POS with table layouts and kitchen printing | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) | ⭐⭐⭐⭐ |
+| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Open-source POS with table mapping and integrated kitchen display | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) | ⭐⭐⭐⭐ |
+| **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, intuitive touch POS frontend built on top of ERPNext | [![GitHub stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) | ⭐⭐⭐⭐ |
+| **[Loyverse alternatives / Community POS](https://github.com/topics/point-of-sale)** | Community-curated point of sale repositories and extensions | [![GitHub stars](https://img.shields.io/github/stars/topics/point-of-sale?style=social&color=white)](https://github.com/topics/point-of-sale) | ⭐⭐ |
+
+---
+
+# 🏢 Open-Source ERP + POS
+
+*Enterprise resource planning suites providing integrated point of sale, supply-chain inventory, automated purchasing, and restaurant accounting. Sorted by GitHub stars.*
+
+| Project | POS | Inventory | Accounting | Restaurant Module | Stars | Open Source |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **[Odoo Community](https://github.com/odoo/odoo)** | ✅ | ✅ | ✅ | ⚠️ (Apps/Community) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ✅ |
+| **[ERPNext](https://github.com/frappe/erpnext)** | ✅ | ✅ | ✅ | ⚠️ (Hospitality App) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ✅ |
+| **[Dolibarr](https://github.com/Dolibarr/dolibarr)** | ✅ | ✅ | ✅ | ⚠️ (DoliPOS/Modules) | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | ✅ |
+| **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | ⚠️ | ✅ | ✅ | ⚠️ (Custom Plugins) | [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | ✅ |
+| **[Tryton](https://github.com/tryton/tryton)** | ⚠️ | ✅ | ✅ | ⚠️ (Extension Modules) | [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) | ✅ |
 
 These systems become attractive when the restaurant requires more than POS functionality:
 
@@ -288,16 +314,17 @@ A KDS is the restaurant equivalent of a production workflow system.
 
 Possible open-source building blocks include:
 
-| Project                                                        | Role                              |
-| -------------------------------------------------------------- | --------------------------------- |
-| **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Restaurant POS + kitchen workflow |
-| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)**    | POS + kitchen tickets             |
-| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)**   | POS + restaurant workflows        |
-| **[ERPNext](https://github.com/frappe/erpnext)**               | POS + inventory/workflow          |
-| **[Odoo Community](https://github.com/odoo/odoo)**             | POS + operations                  |
-| **[Node-RED](https://github.com/node-red/node-red)**           | Custom event/order workflows      |
-| **[MQTT](https://github.com/eclipse-mosquitto/mosquitto)**     | Device/event messaging            |
-| **[Home Assistant](https://github.com/home-assistant/core)**   | IoT/device orchestration          |
+| Project | Role | Stars |
+| --- | --- | :---: |
+| **[Home Assistant](https://github.com/home-assistant/core)** | IoT automation, buzzer systems & kitchen hardware orchestration | [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) |
+| **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations & Kitchen Display app | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
+| **[ERPNext](https://github.com/frappe/erpnext)** | Production order routing, kitchen work orders & stock depletion | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
+| **[Node-RED](https://github.com/node-red/node-red)** | Visual event-driven routing between POS terminals, receipt printers & KDS displays | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) |
+| **[Mosquitto MQTT](https://github.com/eclipse-mosquitto/mosquitto)** | Ultra-fast, lightweight pub/sub event bus for sub-second kitchen order dispatch | [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) |
+| **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Online order intake with real-time kitchen order status updates | [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
+| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Multi-screen kitchen ticket routing & bar monitor displays | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
+| **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Native kitchen display interface & expeditor queue manager | [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
+| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Kitchen screen tickets with line-item completion triggers | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
 
 A custom KDS can be built using:
 
@@ -389,35 +416,34 @@ Useful platforms:
 
 ---
 
-# Open-Source Payments
+# 💳 Open-Source Payments
 
 Restaurant POS systems frequently need to integrate with:
 
-* Card terminals
-* Cash drawers
-* Receipt printers
-* Payment gateways
-* QR payments
-* Digital wallets
-* ACH/bank payments
-* Refund systems
+* 💳 Card terminals & mobile tap-to-pay
+* 💵 Cash drawers & receipt printers
+* 🌐 Payment gateways & acquiring networks
+* 📱 QR table payments & digital wallets
+* 🏦 ACH, direct debits & customer accounts
+* 🔄 Automated tip payouts & refund reconciliation
 
-Useful open-source payment infrastructure includes:
+Useful open-source payment infrastructure includes *(sorted by GitHub stars)*:
 
-| Project                                                  | Role                                  |
-| -------------------------------------------------------- | ------------------------------------- |
-| **[Hyperswitch](https://github.com/juspay/hyperswitch)** | Payment orchestration                 |
-| **[Moov](https://github.com/moov-io)**                   | Financial/payment infrastructure      |
-| **[Kill Bill](https://github.com/killbill/killbill)**    | Billing/payment infrastructure        |
-| **[Stripe Terminal SDKs](https://github.com/stripe)**    | Integration reference / SDK ecosystem |
-| **[jPOS](https://github.com/jpos/jPOS)**                 | ISO 8583 transaction processing       |
-| **[Medusa](https://github.com/medusajs/medusa)**         | Commerce infrastructure               |
+| Project | Role | Stars |
+| --- | --- | :---: |
+| **[Hyperswitch](https://github.com/juspay/hyperswitch)** | Community-driven high-throughput payment router connecting 50+ payment processors & local payment methods | [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) |
+| **[Medusa](https://github.com/medusajs/medusa)** | Composable headless commerce engine with multi-region payment flows and cart checkouts | [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) |
+| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | Self-hosted invoicing, recurring billing, quotes, and payment gateway infrastructure | [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) |
+| **[Kill Bill](https://github.com/killbill/killbill)** | Enterprise-grade billing and payments platform for recurring subscriptions and complex restaurant accounts | [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) |
+| **[Moov](https://github.com/moov-io)** | Open-source cloud-native protocols for card processing, ACH, wire transfers, and bank settlement | [![GitHub stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers) |
+| **[jPOS](https://github.com/jpos/jPOS)** | Battle-tested ISO 8583 financial transaction messaging bridge for payment switches and acquiring hosts | [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) |
+| **[Stripe Terminal SDKs](https://github.com/stripe)** | Reference SDKs and sample client implementations for hardware in-person smart card readers | [![GitHub stars](https://img.shields.io/github/stars/stripe?style=social&color=white)](https://github.com/stripe) |
 
-> Payment processing is an area where an open-source POS normally still depends on external payment processors, acquirers and certified hardware.
+> ⚠️ Payment processing is an area where an open-source POS normally still depends on external payment processors, acquirers and certified hardware.
 
 ---
 
-# Open-Source Restaurant Analytics
+# 📊 Open-Source Restaurant Analytics
 
 A modern restaurant POS generates large volumes of operational data.
 
@@ -449,18 +475,18 @@ POS
        Dashboard
 ```
 
-Useful open-source analytics infrastructure:
+Useful open-source analytics infrastructure *(sorted by GitHub stars)*:
 
-| Project                                                    | Role                   |
-| ---------------------------------------------------------- | ---------------------- |
-| **[Apache Superset](https://github.com/apache/superset)**  | BI dashboards          |
-| **[Metabase](https://github.com/metabase/metabase)**       | Business intelligence  |
-| **[Grafana](https://github.com/grafana/grafana)**          | Operational dashboards |
-| **[Apache ECharts](https://github.com/apache/echarts)**    | Visualization          |
-| **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Analytics database     |
-| **[PostgreSQL](https://www.postgresql.org/)**              | Operational database   |
-| **[DuckDB](https://github.com/duckdb/duckdb)**             | Local analytics        |
-| **[dbt Core](https://github.com/dbt-labs/dbt-core)**       | Analytics engineering  |
+| Project | Role | Stars |
+| --- | --- | :---: |
+| **[Grafana](https://github.com/grafana/grafana)** | Real-time operational dashboards for server monitoring, terminal latency & live kitchen order throughput | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
+| **[Apache Superset](https://github.com/apache/superset)** | Enterprise-ready business intelligence platform for deep hospitality sales analytics & multi-location metrics | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) |
+| **[Apache ECharts](https://github.com/apache/echarts)** | High-performance interactive charting library for embedding custom restaurant dashboards and visual sales trends | [![GitHub stars](https://img.shields.io/github/stars/apache/echarts?style=social&color=white)](https://github.com/apache/echarts/stargazers) |
+| **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Columnar OLAP database optimized for real-time querying across millions of restaurant POS receipt transactions | [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) |
+| **[Metabase](https://github.com/metabase/metabase)** | Visual self-service business intelligence and SQL queries for restaurant managers, operators, and accountants | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) |
+| **[DuckDB](https://github.com/duckdb/duckdb)** | In-process analytical database for blazing-fast local reporting on embedded and offline POS terminals | [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) |
+| **[PostgreSQL](https://www.postgresql.org/)** | Industry-standard relational transactional database powering POS order persistence, ACID transactions, and tables | [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) |
+| **[dbt Core](https://github.com/dbt-labs/dbt-core)** | Analytics engineering framework for transforming raw restaurant register events into structured hospitality reports | [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) |
 
 ---
 
@@ -1208,22 +1234,34 @@ Instead, compose specialized open-source components:
 
 ---
 
-# ⭐ Best Open-Source Restaurant POS Projects
+# ⭐ Top Open-Source Restaurant POS & Hospitality Projects
 
-| Rank | Project                                                                         | Best For                            |
-| ---: | ------------------------------------------------------------------------------- | ----------------------------------- |
-|    1 | **[Floreant POS](https://github.com/floreantpos/floreantpos)**                  | Direct restaurant POS replacement   |
-|    2 | **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)**                     | Restaurant/retail POS customization |
-|    3 | **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)**                    | General POS + restaurant workflows  |
-|    4 | **[ERPNext](https://github.com/frappe/erpnext)**                                | POS + ERP + accounting + inventory  |
-|    5 | **[Odoo Community](https://github.com/odoo/odoo)**                              | POS + broader business operations   |
-|    6 | **[POSNext](https://github.com/DeeloaSociety/posnext)**                         | Modern ERPNext POS development      |
-|    7 | **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | General-purpose web POS             |
-|    8 | **[WallacePOS](https://github.com/micwallace/wallacepos)**                      | Web-based POS reference             |
-|    9 | **[Dolibarr](https://github.com/Dolibarr/dolibarr)**                            | ERP + POS                           |
-|   10 | **[Apache OFBiz](https://github.com/apache/ofbiz-framework)**                   | Enterprise commerce/ERP foundation  |
+*Ranked by community popularity and GitHub stars:*
 
-Floreant is currently one of the clearest open-source projects to evaluate first when the requirement is specifically a **restaurant-native POS**, rather than a generic retail POS.
+| Rank | Project | Primary Hospitality Role | Stars |
+| ---: | --- | --- | :---: |
+|    1 | **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations, retail POS & Kitchen Display app | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
+|    2 | **[Frappe ERPNext](https://github.com/frappe/erpnext)** | End-to-end restaurant ERP, inventory, accounting & multi-location registers | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
+|    3 | **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel e-commerce, digital takeout ordering & food ordering POS ecosystem | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) |
+|    4 | **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** | Modular business management, purchasing, DoliPOS & hospitality modules | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) |
+|    5 | **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | General-purpose lightweight web POS with inventory & barcode receipt printing | [![GitHub stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) |
+|    6 | **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Dedicated restaurant ordering, delivery dispatch & table reservation system | [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
+|    7 | **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | Scalable enterprise commerce, multi-store order routing & ERP foundation | [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) |
+|    8 | **[Lakasir](https://github.com/lakasir/lakasir)** | Mobile & desktop cashier POS for small restaurants, food stalls & cafés | [![GitHub stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) |
+|    9 | **[WallacePOS](https://github.com/micwallace/wallacepos)** | Clean web-based restaurant POS reference codebase with receipt printing | [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) |
+|   10 | **[Tryton](https://github.com/tryton/tryton)** | High-integrity modular ERP framework with extensible POS modules | [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) |
+|   11 | **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Feature-complete visual table mapping, kitchen tickets & multi-station POS | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
+|   12 | **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Dedicated restaurant-native POS with split billing, KDS & offline mode | [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
+|   13 | **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Restaurant/retail touch POS with table layouts, modifiers & kitchen screen | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
+|   14 | **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, reactive web POS frontend designed specifically for ERPNext | [![GitHub stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) |
+
+Floreant POS, TastyIgniter, and uniCenta are premier starting points when the requirement is specifically a **restaurant-native POS**, whereas ERPNext and Odoo excel when full-scale accounting, supply chain, and multi-unit governance are required.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Restaurant-POS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Restaurant-POS&type=date&legend=top-left)
 
 ---
 
