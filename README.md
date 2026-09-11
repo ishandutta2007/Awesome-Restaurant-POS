@@ -238,7 +238,7 @@ Released as free open-source software under **GPL v3**.
 
 *Versatile point-of-sale foundations that can be customized or configured for restaurants, retail counters, and food service. Sorted by GitHub_Stars.*
 
-| Project | Description | Stars | Restaurant Suitability |
+| Project | Description | Github_Stars | Restaurant Suitability |
 | --- | --- | :---: | :---: |
 | **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel commerce platform with extensive POS & restaurant ordering extensions | [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | ⭐⭐⭐⭐ |
 | **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | Web-based inventory and modular point of sale system | [![GitHub_Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) | ⭐⭐⭐ |
@@ -255,7 +255,7 @@ Released as free open-source software under **GPL v3**.
 
 *Enterprise resource planning suites providing integrated point of sale, supply-chain inventory, automated purchasing, and restaurant accounting. Sorted by GitHub_Stars.*
 
-| Project | POS | Inventory | Accounting | Restaurant Module | Stars | Open Source |
+| Project | POS | Inventory | Accounting | Restaurant Module | Github_Stars | Open Source |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **[Odoo Community](https://github.com/odoo/odoo)** | ✅ | ✅ | ✅ | ⚠️ (Apps/Community) | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ✅ |
 | **[ERPNext](https://github.com/frappe/erpnext)** | ✅ | ✅ | ✅ | ⚠️ (Hospitality App) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ✅ |
@@ -314,7 +314,7 @@ A KDS is the restaurant equivalent of a production workflow system.
 
 Possible open-source building blocks include:
 
-| Project | Role | Stars |
+| Project | Role | Github_Stars |
 | --- | --- | :---: |
 | **[Home Assistant](https://github.com/home-assistant/core)** | IoT automation, buzzer systems & kitchen hardware orchestration | [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) |
 | **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations & Kitchen Display app | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
@@ -429,7 +429,7 @@ Restaurant POS systems frequently need to integrate with:
 
 Useful open-source payment infrastructure includes *(sorted by GitHub_Stars)*:
 
-| Project | Role | Stars |
+| Project | Role | Github_Stars |
 | --- | --- | :---: |
 | **[Hyperswitch](https://github.com/juspay/hyperswitch)** | Community-driven high-throughput payment router connecting 50+ payment processors & local payment methods | [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) |
 | **[Medusa](https://github.com/medusajs/medusa)** | Composable headless commerce engine with multi-region payment flows and cart checkouts | [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) |
@@ -477,7 +477,7 @@ POS
 
 Useful open-source analytics infrastructure *(sorted by GitHub_Stars)*:
 
-| Project | Role | Stars |
+| Project | Role | Github_Stars |
 | --- | --- | :---: |
 | **[Grafana](https://github.com/grafana/grafana)** | Real-time operational dashboards for server monitoring, terminal latency & live kitchen order throughput | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
 | **[Apache Superset](https://github.com/apache/superset)** | Enterprise-ready business intelligence platform for deep hospitality sales analytics & multi-location metrics | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) |
@@ -1238,7 +1238,7 @@ Instead, compose specialized open-source components:
 
 *Ranked by community popularity and GitHub_Stars:*
 
-| Rank | Project | Primary Hospitality Role | Stars |
+| Rank | Project | Primary Hospitality Role | Github_Stars |
 | ---: | --- | --- | :---: |
 |    1 | **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations, retail POS & Kitchen Display app | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
 |    2 | **[Frappe ERPNext](https://github.com/frappe/erpnext)** | End-to-end restaurant ERP, inventory, accounting & multi-location registers | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
