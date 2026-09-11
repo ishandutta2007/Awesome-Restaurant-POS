@@ -141,13 +141,13 @@ The open-source restaurant POS ecosystem is smaller than the commercial ecosyste
 
 # 🍽️ Open-Source Restaurant POS
 
-*Curated standalone point-of-sale systems built specifically for restaurant, café, and hospitality workflows. Sorted by GitHub stars.*
+*Curated standalone point-of-sale systems built specifically for restaurant, café, and hospitality workflows. Sorted by GitHub_Stars.*
 
 ---
 
-## 🌟 [TastyIgniter](https://github.com/TastyIgniter/TastyIgniter) [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers)
+## 🌟 [TastyIgniter](https://github.com/TastyIgniter/TastyIgniter) [![GitHub_Stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers)
 
-**[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) is an extensible open-source restaurant management, online ordering, and tableside ordering platform.
+**[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** [![GitHub_Stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) is an extensible open-source restaurant management, online ordering, and tableside ordering platform.
 
 Key capabilities include:
 
@@ -163,9 +163,9 @@ TastyIgniter is built on modern PHP/Laravel frameworks and released under the **
 
 ---
 
-## 🌟 [WallacePOS](https://github.com/micwallace/wallacepos) [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers)
+## 🌟 [WallacePOS](https://github.com/micwallace/wallacepos) [![GitHub_Stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers)
 
-**[WallacePOS](https://github.com/micwallace/wallacepos)** [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) is a lightweight, responsive web-based open-source POS application designed with food-service ordering workflows.
+**[WallacePOS](https://github.com/micwallace/wallacepos)** [![GitHub_Stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) is a lightweight, responsive web-based open-source POS application designed with food-service ordering workflows.
 
 Key features include:
 
@@ -180,9 +180,9 @@ Key features include:
 
 ---
 
-## 🌟 [uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS) [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers)
+## 🌟 [uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS) [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers)
 
-**[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) is a premier cross-platform POS platform with deep restaurant, hospitality, and retail functionality.
+**[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) is a premier cross-platform POS platform with deep restaurant, hospitality, and retail functionality.
 
 Capabilities include:
 
@@ -198,9 +198,9 @@ Licensed under **GPL v3**.
 
 ---
 
-## 🌟 [Floreant POS](https://github.com/floreantpos/floreantpos) [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers)
+## 🌟 [Floreant POS](https://github.com/floreantpos/floreantpos) [![GitHub_Stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers)
 
-**[Floreant POS](https://github.com/floreantpos/floreantpos)** [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) is a legendary open-source restaurant POS deployed worldwide across thousands of dining venues.
+**[Floreant POS](https://github.com/floreantpos/floreantpos)** [![GitHub_Stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) is a legendary open-source restaurant POS deployed worldwide across thousands of dining venues.
 
 Specifically engineered for food and beverage operations:
 
@@ -217,9 +217,9 @@ Released under **MRPL 1.2** (commercial ORO POS version available separately).
 
 ---
 
-## 🌟 [Chromis POS](https://github.com/ChromisPos/ChromisPOS) [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers)
+## 🌟 [Chromis POS](https://github.com/ChromisPos/ChromisPOS) [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers)
 
-**[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) is a feature-packed open-source POS branched from the Openbravo lineage.
+**[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) is a feature-packed open-source POS branched from the Openbravo lineage.
 
 Capabilities:
 
@@ -236,32 +236,32 @@ Released as free open-source software under **GPL v3**.
 
 # 🛒 Open-Source General POS
 
-*Versatile point-of-sale foundations that can be customized or configured for restaurants, retail counters, and food service. Sorted by GitHub stars.*
+*Versatile point-of-sale foundations that can be customized or configured for restaurants, retail counters, and food service. Sorted by GitHub_Stars.*
 
 | Project | Description | Stars | Restaurant Suitability |
 | --- | --- | :---: | :---: |
-| **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel commerce platform with extensive POS & restaurant ordering extensions | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | ⭐⭐⭐⭐ |
-| **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | Web-based inventory and modular point of sale system | [![GitHub stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) | ⭐⭐⭐ |
-| **[Lakasir](https://github.com/lakasir/lakasir)** | Open-source mobile & desktop cashier POS for small businesses | [![GitHub stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) | ⭐⭐⭐ |
-| **[WallacePOS](https://github.com/micwallace/wallacepos)** | Web POS with dedicated café and fast-food ordering workflow | [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) | ⭐⭐⭐ |
-| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Retail & hospitality POS with table layouts and kitchen printing | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) | ⭐⭐⭐⭐ |
-| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Open-source POS with table mapping and integrated kitchen display | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) | ⭐⭐⭐⭐ |
-| **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, intuitive touch POS frontend built on top of ERPNext | [![GitHub stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) | ⭐⭐⭐⭐ |
-| **[Loyverse alternatives / Community POS](https://github.com/topics/point-of-sale)** | Community-curated point of sale repositories and extensions | [![GitHub stars](https://img.shields.io/github/stars/topics/point-of-sale?style=social&color=white)](https://github.com/topics/point-of-sale) | ⭐⭐ |
+| **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel commerce platform with extensive POS & restaurant ordering extensions | [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | ⭐⭐⭐⭐ |
+| **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | Web-based inventory and modular point of sale system | [![GitHub_Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) | ⭐⭐⭐ |
+| **[Lakasir](https://github.com/lakasir/lakasir)** | Open-source mobile & desktop cashier POS for small businesses | [![GitHub_Stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) | ⭐⭐⭐ |
+| **[WallacePOS](https://github.com/micwallace/wallacepos)** | Web POS with dedicated café and fast-food ordering workflow | [![GitHub_Stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) | ⭐⭐⭐ |
+| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Retail & hospitality POS with table layouts and kitchen printing | [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) | ⭐⭐⭐⭐ |
+| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Open-source POS with table mapping and integrated kitchen display | [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) | ⭐⭐⭐⭐ |
+| **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, intuitive touch POS frontend built on top of ERPNext | [![GitHub_Stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) | ⭐⭐⭐⭐ |
+| **[Loyverse alternatives / Community POS](https://github.com/topics/point-of-sale)** | Community-curated point of sale repositories and extensions | [![GitHub_Stars](https://img.shields.io/github/stars/topics/point-of-sale?style=social&color=white)](https://github.com/topics/point-of-sale) | ⭐⭐ |
 
 ---
 
 # 🏢 Open-Source ERP + POS
 
-*Enterprise resource planning suites providing integrated point of sale, supply-chain inventory, automated purchasing, and restaurant accounting. Sorted by GitHub stars.*
+*Enterprise resource planning suites providing integrated point of sale, supply-chain inventory, automated purchasing, and restaurant accounting. Sorted by GitHub_Stars.*
 
 | Project | POS | Inventory | Accounting | Restaurant Module | Stars | Open Source |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[Odoo Community](https://github.com/odoo/odoo)** | ✅ | ✅ | ✅ | ⚠️ (Apps/Community) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ✅ |
-| **[ERPNext](https://github.com/frappe/erpnext)** | ✅ | ✅ | ✅ | ⚠️ (Hospitality App) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ✅ |
-| **[Dolibarr](https://github.com/Dolibarr/dolibarr)** | ✅ | ✅ | ✅ | ⚠️ (DoliPOS/Modules) | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | ✅ |
-| **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | ⚠️ | ✅ | ✅ | ⚠️ (Custom Plugins) | [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | ✅ |
-| **[Tryton](https://github.com/tryton/tryton)** | ⚠️ | ✅ | ✅ | ⚠️ (Extension Modules) | [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) | ✅ |
+| **[Odoo Community](https://github.com/odoo/odoo)** | ✅ | ✅ | ✅ | ⚠️ (Apps/Community) | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ✅ |
+| **[ERPNext](https://github.com/frappe/erpnext)** | ✅ | ✅ | ✅ | ⚠️ (Hospitality App) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ✅ |
+| **[Dolibarr](https://github.com/Dolibarr/dolibarr)** | ✅ | ✅ | ✅ | ⚠️ (DoliPOS/Modules) | [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | ✅ |
+| **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | ⚠️ | ✅ | ✅ | ⚠️ (Custom Plugins) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | ✅ |
+| **[Tryton](https://github.com/tryton/tryton)** | ⚠️ | ✅ | ✅ | ⚠️ (Extension Modules) | [![GitHub_Stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) | ✅ |
 
 These systems become attractive when the restaurant requires more than POS functionality:
 
@@ -316,15 +316,15 @@ Possible open-source building blocks include:
 
 | Project | Role | Stars |
 | --- | --- | :---: |
-| **[Home Assistant](https://github.com/home-assistant/core)** | IoT automation, buzzer systems & kitchen hardware orchestration | [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) |
-| **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations & Kitchen Display app | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
-| **[ERPNext](https://github.com/frappe/erpnext)** | Production order routing, kitchen work orders & stock depletion | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
-| **[Node-RED](https://github.com/node-red/node-red)** | Visual event-driven routing between POS terminals, receipt printers & KDS displays | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) |
-| **[Mosquitto MQTT](https://github.com/eclipse-mosquitto/mosquitto)** | Ultra-fast, lightweight pub/sub event bus for sub-second kitchen order dispatch | [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) |
-| **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Online order intake with real-time kitchen order status updates | [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
-| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Multi-screen kitchen ticket routing & bar monitor displays | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
-| **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Native kitchen display interface & expeditor queue manager | [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
-| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Kitchen screen tickets with line-item completion triggers | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
+| **[Home Assistant](https://github.com/home-assistant/core)** | IoT automation, buzzer systems & kitchen hardware orchestration | [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) |
+| **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations & Kitchen Display app | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
+| **[ERPNext](https://github.com/frappe/erpnext)** | Production order routing, kitchen work orders & stock depletion | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
+| **[Node-RED](https://github.com/node-red/node-red)** | Visual event-driven routing between POS terminals, receipt printers & KDS displays | [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) |
+| **[Mosquitto MQTT](https://github.com/eclipse-mosquitto/mosquitto)** | Ultra-fast, lightweight pub/sub event bus for sub-second kitchen order dispatch | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) |
+| **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Online order intake with real-time kitchen order status updates | [![GitHub_Stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
+| **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Multi-screen kitchen ticket routing & bar monitor displays | [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
+| **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Native kitchen display interface & expeditor queue manager | [![GitHub_Stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
+| **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Kitchen screen tickets with line-item completion triggers | [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
 
 A custom KDS can be built using:
 
@@ -427,17 +427,17 @@ Restaurant POS systems frequently need to integrate with:
 * 🏦 ACH, direct debits & customer accounts
 * 🔄 Automated tip payouts & refund reconciliation
 
-Useful open-source payment infrastructure includes *(sorted by GitHub stars)*:
+Useful open-source payment infrastructure includes *(sorted by GitHub_Stars)*:
 
 | Project | Role | Stars |
 | --- | --- | :---: |
-| **[Hyperswitch](https://github.com/juspay/hyperswitch)** | Community-driven high-throughput payment router connecting 50+ payment processors & local payment methods | [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) |
-| **[Medusa](https://github.com/medusajs/medusa)** | Composable headless commerce engine with multi-region payment flows and cart checkouts | [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) |
-| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | Self-hosted invoicing, recurring billing, quotes, and payment gateway infrastructure | [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) |
-| **[Kill Bill](https://github.com/killbill/killbill)** | Enterprise-grade billing and payments platform for recurring subscriptions and complex restaurant accounts | [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) |
-| **[Moov](https://github.com/moov-io)** | Open-source cloud-native protocols for card processing, ACH, wire transfers, and bank settlement | [![GitHub stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers) |
-| **[jPOS](https://github.com/jpos/jPOS)** | Battle-tested ISO 8583 financial transaction messaging bridge for payment switches and acquiring hosts | [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) |
-| **[Stripe Terminal SDKs](https://github.com/stripe)** | Reference SDKs and sample client implementations for hardware in-person smart card readers | [![GitHub stars](https://img.shields.io/github/stars/stripe?style=social&color=white)](https://github.com/stripe) |
+| **[Hyperswitch](https://github.com/juspay/hyperswitch)** | Community-driven high-throughput payment router connecting 50+ payment processors & local payment methods | [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) |
+| **[Medusa](https://github.com/medusajs/medusa)** | Composable headless commerce engine with multi-region payment flows and cart checkouts | [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) |
+| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | Self-hosted invoicing, recurring billing, quotes, and payment gateway infrastructure | [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) |
+| **[Kill Bill](https://github.com/killbill/killbill)** | Enterprise-grade billing and payments platform for recurring subscriptions and complex restaurant accounts | [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) |
+| **[Moov](https://github.com/moov-io)** | Open-source cloud-native protocols for card processing, ACH, wire transfers, and bank settlement | [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers) |
+| **[jPOS](https://github.com/jpos/jPOS)** | Battle-tested ISO 8583 financial transaction messaging bridge for payment switches and acquiring hosts | [![GitHub_Stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) |
+| **[Stripe Terminal SDKs](https://github.com/stripe)** | Reference SDKs and sample client implementations for hardware in-person smart card readers | [![GitHub_Stars](https://img.shields.io/github/stars/stripe?style=social&color=white)](https://github.com/stripe) |
 
 > ⚠️ Payment processing is an area where an open-source POS normally still depends on external payment processors, acquirers and certified hardware.
 
@@ -475,18 +475,18 @@ POS
        Dashboard
 ```
 
-Useful open-source analytics infrastructure *(sorted by GitHub stars)*:
+Useful open-source analytics infrastructure *(sorted by GitHub_Stars)*:
 
 | Project | Role | Stars |
 | --- | --- | :---: |
-| **[Grafana](https://github.com/grafana/grafana)** | Real-time operational dashboards for server monitoring, terminal latency & live kitchen order throughput | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
-| **[Apache Superset](https://github.com/apache/superset)** | Enterprise-ready business intelligence platform for deep hospitality sales analytics & multi-location metrics | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) |
-| **[Apache ECharts](https://github.com/apache/echarts)** | High-performance interactive charting library for embedding custom restaurant dashboards and visual sales trends | [![GitHub stars](https://img.shields.io/github/stars/apache/echarts?style=social&color=white)](https://github.com/apache/echarts/stargazers) |
-| **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Columnar OLAP database optimized for real-time querying across millions of restaurant POS receipt transactions | [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) |
-| **[Metabase](https://github.com/metabase/metabase)** | Visual self-service business intelligence and SQL queries for restaurant managers, operators, and accountants | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) |
-| **[DuckDB](https://github.com/duckdb/duckdb)** | In-process analytical database for blazing-fast local reporting on embedded and offline POS terminals | [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) |
-| **[PostgreSQL](https://www.postgresql.org/)** | Industry-standard relational transactional database powering POS order persistence, ACID transactions, and tables | [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) |
-| **[dbt Core](https://github.com/dbt-labs/dbt-core)** | Analytics engineering framework for transforming raw restaurant register events into structured hospitality reports | [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) |
+| **[Grafana](https://github.com/grafana/grafana)** | Real-time operational dashboards for server monitoring, terminal latency & live kitchen order throughput | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
+| **[Apache Superset](https://github.com/apache/superset)** | Enterprise-ready business intelligence platform for deep hospitality sales analytics & multi-location metrics | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) |
+| **[Apache ECharts](https://github.com/apache/echarts)** | High-performance interactive charting library for embedding custom restaurant dashboards and visual sales trends | [![GitHub_Stars](https://img.shields.io/github/stars/apache/echarts?style=social&color=white)](https://github.com/apache/echarts/stargazers) |
+| **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Columnar OLAP database optimized for real-time querying across millions of restaurant POS receipt transactions | [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) |
+| **[Metabase](https://github.com/metabase/metabase)** | Visual self-service business intelligence and SQL queries for restaurant managers, operators, and accountants | [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) |
+| **[DuckDB](https://github.com/duckdb/duckdb)** | In-process analytical database for blazing-fast local reporting on embedded and offline POS terminals | [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) |
+| **[PostgreSQL](https://www.postgresql.org/)** | Industry-standard relational transactional database powering POS order persistence, ACID transactions, and tables | [![GitHub_Stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers) |
+| **[dbt Core](https://github.com/dbt-labs/dbt-core)** | Analytics engineering framework for transforming raw restaurant register events into structured hospitality reports | [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) |
 
 ---
 
@@ -1236,24 +1236,24 @@ Instead, compose specialized open-source components:
 
 # ⭐ Top Open-Source Restaurant POS & Hospitality Projects
 
-*Ranked by community popularity and GitHub stars:*
+*Ranked by community popularity and GitHub_Stars:*
 
 | Rank | Project | Primary Hospitality Role | Stars |
 | ---: | --- | --- | :---: |
-|    1 | **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations, retail POS & Kitchen Display app | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
-|    2 | **[Frappe ERPNext](https://github.com/frappe/erpnext)** | End-to-end restaurant ERP, inventory, accounting & multi-location registers | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
-|    3 | **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel e-commerce, digital takeout ordering & food ordering POS ecosystem | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) |
-|    4 | **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** | Modular business management, purchasing, DoliPOS & hospitality modules | [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) |
-|    5 | **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | General-purpose lightweight web POS with inventory & barcode receipt printing | [![GitHub stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) |
-|    6 | **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Dedicated restaurant ordering, delivery dispatch & table reservation system | [![GitHub stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
-|    7 | **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | Scalable enterprise commerce, multi-store order routing & ERP foundation | [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) |
-|    8 | **[Lakasir](https://github.com/lakasir/lakasir)** | Mobile & desktop cashier POS for small restaurants, food stalls & cafés | [![GitHub stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) |
-|    9 | **[WallacePOS](https://github.com/micwallace/wallacepos)** | Clean web-based restaurant POS reference codebase with receipt printing | [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) |
-|   10 | **[Tryton](https://github.com/tryton/tryton)** | High-integrity modular ERP framework with extensible POS modules | [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) |
-|   11 | **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Feature-complete visual table mapping, kitchen tickets & multi-station POS | [![GitHub stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
-|   12 | **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Dedicated restaurant-native POS with split billing, KDS & offline mode | [![GitHub stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
-|   13 | **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Restaurant/retail touch POS with table layouts, modifiers & kitchen screen | [![GitHub stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
-|   14 | **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, reactive web POS frontend designed specifically for ERPNext | [![GitHub stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) |
+|    1 | **[Odoo Community](https://github.com/odoo/odoo)** | Full ERP restaurant operations, retail POS & Kitchen Display app | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) |
+|    2 | **[Frappe ERPNext](https://github.com/frappe/erpnext)** | End-to-end restaurant ERP, inventory, accounting & multi-location registers | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
+|    3 | **[WooCommerce](https://github.com/woocommerce/woocommerce)** | Omnichannel e-commerce, digital takeout ordering & food ordering POS ecosystem | [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) |
+|    4 | **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** | Modular business management, purchasing, DoliPOS & hospitality modules | [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) |
+|    5 | **[Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos)** | General-purpose lightweight web POS with inventory & barcode receipt printing | [![GitHub_Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers) |
+|    6 | **[TastyIgniter](https://github.com/TastyIgniter/TastyIgniter)** | Dedicated restaurant ordering, delivery dispatch & table reservation system | [![GitHub_Stars](https://img.shields.io/github/stars/TastyIgniter/TastyIgniter?style=social&color=white)](https://github.com/TastyIgniter/TastyIgniter/stargazers) |
+|    7 | **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | Scalable enterprise commerce, multi-store order routing & ERP foundation | [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) |
+|    8 | **[Lakasir](https://github.com/lakasir/lakasir)** | Mobile & desktop cashier POS for small restaurants, food stalls & cafés | [![GitHub_Stars](https://img.shields.io/github/stars/lakasir/lakasir?style=social&color=white)](https://github.com/lakasir/lakasir/stargazers) |
+|    9 | **[WallacePOS](https://github.com/micwallace/wallacepos)** | Clean web-based restaurant POS reference codebase with receipt printing | [![GitHub_Stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers) |
+|   10 | **[Tryton](https://github.com/tryton/tryton)** | High-integrity modular ERP framework with extensible POS modules | [![GitHub_Stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) |
+|   11 | **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Feature-complete visual table mapping, kitchen tickets & multi-station POS | [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) |
+|   12 | **[Floreant POS](https://github.com/floreantpos/floreantpos)** | Dedicated restaurant-native POS with split billing, KDS & offline mode | [![GitHub_Stars](https://img.shields.io/github/stars/floreantpos/floreantpos?style=social&color=white)](https://github.com/floreantpos/floreantpos/stargazers) |
+|   13 | **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Restaurant/retail touch POS with table layouts, modifiers & kitchen screen | [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) |
+|   14 | **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, reactive web POS frontend designed specifically for ERPNext | [![GitHub_Stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) |
 
 Floreant POS, TastyIgniter, and uniCenta are premier starting points when the requirement is specifically a **restaurant-native POS**, whereas ERPNext and Odoo excel when full-scale accounting, supply chain, and multi-unit governance are required.
 
