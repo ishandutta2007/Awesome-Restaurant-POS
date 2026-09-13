@@ -247,6 +247,7 @@ Released as free open-source software under **GPL v3**.
 | **[uniCenta oPOS](https://github.com/uniCenta/uniCentaPOS)** | Retail & hospitality POS with table layouts and kitchen printing | [![GitHub_Stars](https://img.shields.io/github/stars/uniCenta/uniCentaPOS?style=social&color=white)](https://github.com/uniCenta/uniCentaPOS/stargazers) | ⭐⭐⭐⭐ |
 | **[Chromis POS](https://github.com/ChromisPos/ChromisPOS)** | Open-source POS with table mapping and integrated kitchen display | [![GitHub_Stars](https://img.shields.io/github/stars/ChromisPos/ChromisPOS?style=social&color=white)](https://github.com/ChromisPos/ChromisPOS/stargazers) | ⭐⭐⭐⭐ |
 | **[POSNext](https://github.com/DeeloaSociety/posnext)** | Modern, intuitive touch POS frontend built on top of ERPNext | [![GitHub_Stars](https://img.shields.io/github/stars/DeeloaSociety/posnext?style=social&color=white)](https://github.com/DeeloaSociety/posnext/stargazers) | ⭐⭐⭐⭐ |
+| **[Posnic POS](https://www.posnic.com/)** ([source](https://github.com/Posnic/POS)) | AGPL-3.0 offline-first POS and billing software with inventory, reporting, and desktop releases | [![GitHub_Stars](https://img.shields.io/github/stars/Posnic/POS?style=social&color=white)](https://github.com/Posnic/POS/stargazers) | ⭐⭐⭐ |
 | **[Loyverse alternatives / Community POS](https://github.com/topics/point-of-sale)** | Community-curated point of sale repositories and extensions | [![GitHub_Stars](https://img.shields.io/github/stars/topics/point-of-sale?style=social&color=white)](https://github.com/topics/point-of-sale) | ⭐⭐ |
 
 ---
